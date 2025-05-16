@@ -1,6 +1,6 @@
 # Hi, I am Amine 👨‍💻
 
-![GitHub Header](https://github.com/AmineFx/AmineFx/blob/main/github-header.gif)
+![GitHub Header](https://github.com/AmineFx/aminefx/blob/main/github-header.gif)
 
 ## Software Engineer | Full Stack Developer
 Passionate about learning and teaching programming.
