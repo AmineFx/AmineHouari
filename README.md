@@ -1,6 +1,6 @@
 # Hi, I am Amine 👨‍💻
 
-![GitHub Header](https://github.com/AmineFx/AmineHouari/blob/master/github-header.gif)
+![GitHub Header](https://github.com/Yarob50/Yarob50/blob/main/images/github-header.gif)
 
 ## Software Engineer | Full Stack Developer
 Passionate about learning and teaching programming.
